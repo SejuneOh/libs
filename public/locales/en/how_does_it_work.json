@@ -1,0 +1,56 @@
+{
+  "section1": {
+    "title": "healthcare without borders",
+    "desc": "CloudHospital is an online provider of medical services such as:",
+    "medical_treatment": "Cross-border medical treatment",
+    "medical_treatment_text": "We help you organize your medical trip abroad to the hospital or clinic your choice",
+    "telemedicine": "Cross-border Telemedicine",
+    "telemedicine_text": "You can get professional medical consultations via our app through video or messaging",
+    "join_or_login": "Join or Login"
+  },
+  "section2": {
+    "title": "This is how CloudHospital works",
+    "find": "1. Find treatments",
+    "find_text": "That suits you best by location, price and other conditions",
+    "login": "2. Join or login",
+    "login_text": "To keep your personal info and  book selected deal or consultation",
+    "book": "3. Book a service",
+    "book_text": "For suitable date and time and wait for doctor's approval",
+    "pay": "4. Pay for booked service",
+    "pay_text": "Within 24 hours after doctor's approval",
+    "get": "5. Receive service",
+    "get_text": "You booked (deal or consultation)"
+  },
+  "section3": {
+    "title": "Why use CloudHospital",
+    "desc": "We cooperate with the world's best hospitals, clinics, and doctors",
+    "validation_process": "Each medical service provider undergoes a thorough validation process by us",
+    "support_you_247": "We support you 24/7 and help you organize your travel",
+    "stripe": "We process your payments securely and safety through Stripe",
+    "privacy": "We guarantee the privacy and safety of your personal data"
+  },
+  "section4": {
+    "title": "Telemedicine with CloudHospital",
+    "desc": "Telemedicine is a modern solution to help diagnose and treat patients remotely using messaging, two-way video, or voice calls",
+    "text_1": "CloudHospital provides messaging and video consultations through the app world-class experts",
+    "text_2": "Online consultation provide many advantages compared to traditional visits to the doctor",
+    "feature_1": "easily manage chronic diseases",
+    "feature_2": "saving money and time on travel expenses",
+    "feature_3": "getting help in a convenient place and time",
+    "feature_4": "no contact with other potentially contagious patients",
+    "feature_5": "keeping the privacy of personal data"
+  },
+  "section5": {
+    "title": "This is how Telemedicine with CloudHospital works ",
+    "login": "1. Join or login",
+    "login_text": "To keep your personal info and book consultation",
+    "book": "2. Book a service",
+    "book_text": "For a chosen date/time and wait for doctor's approval",
+    "pay": "3. Pay for booked consultation",
+    "pay_text": "Within 24h after doctor's approval",
+    "begin": "4. Begin your consultation on time",
+    "begin_text_1": "for general health consultation - get your prescription from doctor",
+    "begin_text_2": "for beauty area consultation - get an invoice",
+    "begin_text_3": "for deal - get free consultation about deal details"
+  }
+}

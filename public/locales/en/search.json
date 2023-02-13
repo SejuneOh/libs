@@ -1,0 +1,14 @@
+{
+  "placeholder": "What are you looking for?",
+  "label": {
+    "filters": "Filters",
+    "loading_location": "Getting your current location",
+    "less_than": "Less than"
+  },
+  "filters": {
+    "online_consultation": "Online Consultation",
+    "marketing_type": "Category",
+    "geo_location": "Search by distance",
+    "distance": "Distance"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "titles": {
+    "overview": "ملخص",
+    "top_specialities": "أعلى التخصصات",
+    "major_equipment": "معدات",
+    "doctors": "الأطباء",
+    "deals": "صفقات",
+    "prices": "الأسعار",
+    "location": "تبوك",
+    "hospital_address": "عنوان المستشفى",
+    "article": "مقالات",
+    "other_hospitals": "مستشفيات أخرى",
+    "hospital_rating": "تصنيف المستشفى",
+    "video": "فيديو"
+  },
+  "info": {
+    "foundation": "سنة التأسيس",
+    "doctors": "الأطباء",
+    "operation": "العمليات في السنة",
+    "beds": "سرير",
+    "staff": "طاقم طبي",
+    "fee": "مصاريف"
+  },
+  "how_does_work": {
+    "title": "كيف يعمل؟",
+    "login": "تسجيل الدخول أو الاشتراك",
+    "consultation": "اطرح سؤالاً أو اطلب استشارة عبر الإنترنت",
+    "call": "استشارة مسبقة عبر الإنترنت ، يرجى إرسال تاريخك الطبي إلينا"
+  },
+  "covid": {
+    "title": "معلومات مهمة",
+    "txt": "احمِ نفسك والآخرين من COVID-19.\n يرجى التحقق من المعلومات حول الوباء قبل الحجز.",
+    "link": "عرض التفاصيل"
+  },
+  "see_more_deals": {
+    "title": "هل تريد رؤية المزيد من الصفقات؟",
+    "txt": "الصفقات الأخرى المتاحة",
+    "link": "مشاهدة العروض"
+  },
+  "tabs": {
+    "diagnostic": "إجراء التشخيص",
+    "treatment": "إجراء العلاج"
+  },
+  "links": {
+    "all": "الجميع",
+    "see_all": "اظهار الكل",
+    "see_all_blog": "مشاهدة جميع المقالات",
+    "see_all_diagnostic": "انظر جميع التشخيصات",
+    "see_all_doctors": "رؤية جميع الأطباء",
+    "see_all_hospitals": "رؤية جميع المستشفيات",
+    "see_all_package": "مشاهدة جميع العروض",
+    "see_all_specialty": "انظر جميع التخصصات",
+    "see_all_treatment": "انظر جميع العلاجات",
+    "services": "خدمات",
+    "show_all": "عرض الكل",
+    "specialties": "التخصصات"
+  },
+  "booking": {
+    "fee": "رسوم الاستشارة:",
+    "online_consultation": "الاستشارة عبر الإنترنت",
+    "ask": "إذا كنت تريد طرح سؤال قبل استشارة الطبيب"
+  },
+  "accreditations": {
+    "hospital_accreditations_of_quality": "اعتماد المستشفى للجودة"
+  }
+}

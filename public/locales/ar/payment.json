@@ -1,0 +1,13 @@
+{
+  "total": "المجموع",
+  "type": "يكتب",
+  "consultation": "التشاور",
+  "deal_name": "اسم الصفقة",
+  "doctor_name": "اسم الطبيب",
+  "hospital_timezone": "المنطقة الزمنية للمستشفى",
+  "confirmed_date": "تاريخ مؤكد",
+  "payment": "دفع",
+  "checkout": "الدفع",
+  "deal_person": "الناس",
+  "hospital_name": "اسم المستشفى"
+}

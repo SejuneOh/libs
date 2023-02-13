@@ -1,0 +1,58 @@
+{
+  "feature": {
+    "about_contact2": "Contact Us",
+    "about_contact2_txt": "If you have any concerns or technical problems, please send us an e-mail or call us",
+    "about_contact3_txt": "For information about medical procedures or general inquires, please contact us at",
+    "about_map_title": "Location",
+    "about_map_txt": "5F (510), 598, Seocho-daero, Seocho-gu, Seoul, Republic of Korea (06619)",
+    "about_review_title": "Client testimonials",
+    "about_slider_title": "The most qualified experts in their fields of service"
+  },
+  "count": {
+    "countries": "Countries",
+    "hospitals": "Hospitals",
+    "doctors": "Doctors",
+    "specialties": "Specialties"
+  },
+  "statements": {
+    "main": "To help people find the best medical services around the world",
+    "sub": "Our mission",
+    "about_us": "About CloudHospital",
+    "desc_1": "Founded in Seoul, South Korea, CloudHospital is a robust online platform helping patients around the world find the best providers for their needs regardless of where they are located. We are an experienced team from around the globe with ample experience in the fields of web technology, medical practice, medical concierge services, and finance. Our mission is simple: to make it easy for everyone to find the best medical solutions anywhere in the world.",
+    "desc_2": "By investing in technology that takes the complexities out of world-wide medical services, icloudhospital.com can seamlessly connect millions of patients around the world to excellent medical services, both from the most demanding surgeries to the most accurate health checkups, as well as the world’s most advanced cosmetic procedures. As one of the world’s most well integrated medical concierge services firm, CloudHospital enables hospitals and clinics around the world treat their patients globally, with minimal friction. Our unique technology helps hospitals and clinics to focus on what they do best – treating their patients, while CloudHospital handles all the systems integrations, communications systems embedded with the website, help produce traffic with videos and articles – all in a reliable enterprise level firmware and internet presence with high uptimes and throughput.",
+    "desc_3": "Our services, which are accessible through icloudhospital.com is available in various languages, including English, Chinese and Russian, present the best medical hospitals and clinics, including the best respected doctors in their field of expertise. CloudHospital makes it easy to access medical care and supports you with 24/7/365 patient support.",
+    "title_video": "CloudHospital takes care of you and the people you love",
+    "title_investor": "Our investors",
+    "service": {
+      "title": "Services we Offer",
+      "desc": "We have combined medicine and modern technologies to satisfy your medical care needs",
+      "hospital": "Cross-border medical treatment",
+      "hospital_desc": "Highly qualified doctors and hospitals from 15+ countries we have got together to help you find the best solution for your request",
+      "hospital_link": "Find your doctor or hospital",
+      "online_consultation": "Cross-border Telemedicine",
+      "consultation_desc": "Video call and chatting is one of the types of telemedicine. This way of communicating with the doctor allows you to receive professional medical care from anywhere in the world.",
+      "consultation_link": "Learn more how it works",
+      "online_booking": "Online Booking",
+      "booking_desc": "You can book a service package (deal) at any time in our app by choosing a convenient date and time of appointment.",
+      "booking_link": "Book a deal",
+      "payments": "Payments",
+      "payments_desc": "You can pay for any booked service in our app online without additional commissions. We process your payments securely and safety through Stripe.",
+      "payments_link": "Learn more how it works",
+      "medical_tourism": "Medical Tourism",
+      "tourism_desc": "We help you organize your medical trip abroad to hospital or clinic of your choice.",
+      "tourism_link": "Find more information",
+      "support": "Support 24/7",
+      "support_desc": "We support you 24/7 and help you organize your travel."
+    },
+    "review": {
+      "text_1": "Due to a burn in childhood, the body was 70% covered with kyloid scars. I underwent 3 skin grafting operations at Hanyang Clinic. The last operation was in January 2020. I am very grateful to Cloudhospital Inc. for organizing my treatment!Тhank you sincerely!",
+      "user_1": "- Patient N., 60 years old.",
+      "text_2": "Many thanks to CloudHospital for organizing my breast cancer operation at the Hanyang Clinic in February 2020. All help was provided quickly and efficiently!I wish the prosperity of the company Cloudhospital. Inc",
+      "user_2": "- Patient E., 30 years old.",
+      "text_3": "Вrain operation was performed in October 2019 at the Samsung Hospital. We are very grateful to Cloudhospital. Inc for assistance in organizing screening and treatment.We'll continue to contact this company and wish you all the best.",
+      "user_3": "- Patient R., 44 years old."
+    },
+    "title_hospitals": "Hospitals we work with",
+    "hospitals_desc": "We cooperate with the 250+ best hospitals and clinics in the world"
+  }
+}

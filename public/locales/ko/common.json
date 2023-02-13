@@ -1,0 +1,291 @@
+{
+  "404": {
+    "seo_title": "페이지를 찾을 수 없습니다",
+    "title": "죄송합니다. 이 페이지를 사용할 수 없습니다.",
+    "desc": "링크 오류 혹은 페이지가 삭제 됐을 수 있습니다.",
+    "redirect": "클라우드호스피탈 홈페이지로 이동"
+  },
+  "500": {
+    "seo_title": "오류",
+    "title": "죄송합니다. 문제가 발생했습니다.",
+    "desc": "링크 오류 혹은 페이지가 삭제 됐을 수 있습니다.",
+    "redirect": "클라우드호스피탈 홈페이지로 이동"
+  },
+  "header": {
+    "find_care": "의료 서비스 찾기",
+    "departments": "의료부서",
+    "specialties": "의료과목",
+    "locations": "위치",
+    "hospitals": "병원",
+    "doctors": "의사",
+    "countries": "국가",
+    "promotions": "프로모션",
+    "articles": "의료정보",
+    "articles_featured": "주요 의학 정보",
+    "deals": "프로모션",
+    "deals_featured": "특별 프로모션",
+    "about_us": "회사소개",
+    "about_cloud_hospital": "클라우드호스피탈 소개",
+    "how_does_it_work": "서비스 소개",
+    "our_team": "우리 팀",
+    "vision_and_mission": "비젼",
+    "service_offered": "서비스",
+    "why_us": "클라우드 호스피탈을 선택해야 하는 이유",
+    "client_testimonials": "고객 후기",
+    "cloud_hospital": "클라우드호스피탈",
+    "online_consultation": "비대면 상담",
+    "offline_consultation": "대면 상담",
+    "investors": "투자자",
+    "leadership": "리더쉽",
+    "medical": "의료",
+    "technology": "기술",
+    "mobile": {
+      "menu": "메뉴",
+      "profile": "프로필"
+    }
+  },
+  "hospital_name": "클라우드호스피탈",
+  "button": {
+    "view_all": "모두 보기",
+    "view_more": "더 보기",
+    "see_more": "더보기",
+    "see_less": "접기",
+    "sources": "출처",
+    "ask_question": "질문하기",
+    "book_appointment": "예약하기",
+    "online_consultation": "온라인 상담하기",
+    "submit": "제출",
+    "cancel": "취소",
+    "sign_in": "로그인",
+    "sign_up": "회원가입",
+    "login": "로그인",
+    "logout": "로그아웃",
+    "signout": "로그아웃",
+    "register": "등록",
+    "confirm": "확인",
+    "ok": "확인",
+    "overview": "개요",
+    "click_here": "여기를 클릭하세요",
+    "chat": "채팅",
+    "close": "닫기",
+    "my_page": "마이 페이지",
+    "search": "찾다"
+  },
+  "label": {
+    "consultation_fee": "상담 비용",
+    "fee": "비용",
+    "tax_fees_included": "수수료 및 세금 포함",
+    "less_than": "~",
+    "free": "무료",
+    "all_inclusive": "올인클루시브",
+    "onwards": "앞으로",
+    "years_short": "년"
+  },
+  "loading": "로딩",
+  "chat": {
+    "initializing_chat": "채팅 시작하기",
+    "display_name": "이름",
+    "select_chat_room": "채팅방을 선택하여 주십시오",
+    "no_chat_room": "채팅방이 없습니다",
+    "enter_your_details": "시작 하기 전 정보를 입력해 주십시오",
+    "first_name": "이름",
+    "last_name": "성",
+    "start_chat": "채팅 시작",
+    "validation": {
+      "required": "필수 항목",
+      "cannot_numeric_digit": "이름은 숫자를 포함할 수 없습니다",
+      "cannot_special_character": "이름은 특수문자를 포함할 수 없습니다",
+      "too_long": "이름이 너무 깁니다"
+    },
+    "are_you_sure": "정확한 정보를 입력하셨나요?",
+    "you_are_leaving": "비대면 상담을 종료합니다",
+    "cancel": "취소",
+    "confirm": "확인"
+  },
+  "call": {
+    "initializing_call": "연결 중입니다"
+  },
+  "layouts": {
+    "header": {
+      "more": "더보기",
+      "searchBar_placeholder": "의료과목, 프로모션, 의사로 검색",
+      "language": "언어"
+    },
+    "footer": {
+      "specializations": "의료과목",
+      "working_hours": "근무 시간",
+      "visit_us": "방문하기",
+      "contact_us": "문의하기",
+      "g1": {
+        "best_beauty_clinics": "최고의 성형외과",
+        "best_doctors": "최고의 의사",
+        "best_hospitals": "최고의 병원",
+        "find_hospitals_doctors": "병원 또는 의사 찾기"
+      },
+      "g2": {
+        "about_cloudhospital": "클라우드호스피탈 소개",
+        "contact_us": "문의하기",
+        "for_business": "제휴문의",
+        "articles_and_experts": "블로그 & 전문의",
+        "how_does_it_work": "이용방법"
+      },
+      "g3": {
+        "privacy_policy": "개인정보 보호방침",
+        "terms_and_conditions": "서비스 이용약관",
+        "site_map": "사이트맵"
+      },
+      "statements": {
+        "g1": "검색",
+        "g2": "소개",
+        "g3": "정책",
+        "g4": "연락처"
+      },
+      "weekdays": {
+        "Monday": "월요일",
+        "Tuesday": "화요일",
+        "Wednesday": "수요일",
+        "Thursday": "목요일",
+        "Friday": "금요일",
+        "Saturday": "토요일",
+        "Sunday": "일요일",
+        "Holiday": "휴일"
+      },
+      "checklist": {
+        "assured_results": "확실한 결과",
+        "best_pricing": "최고의 가격",
+        "global_service": "글로벌 서비스",
+        "hassel_free": "하셀 프리"
+      },
+      "download_app": "앱 다운로드",
+      "for_patients": {
+        "links": {
+          "deals_beauty": "상품 - 뷰티",
+          "deals_health": "거래 - 건강",
+          "doctors_beauty": "탑 닥터스 - 뷰티",
+          "doctors_health": "최고의 의사 - 건강",
+          "hospitals_beauty": "최고의 의사 - 미용",
+          "hospitals_health": "최고의 병원 - 건강"
+        },
+        "title": "환자용"
+      },
+      "policies": {
+        "links": {
+          "privacy_policy": "개인 정보 정책",
+          "terms_of_service": "서비스 약관"
+        },
+        "title": "정책"
+      },
+      "quick_links": {
+        "links": {
+          "about_us": "회사 소개",
+          "how_it_works": "작동 원리"
+        },
+        "title": "빠른 링크"
+      }
+    }
+  },
+  "no_results_found": "검색 결과가 없습니다",
+  "we_can_not_find": "검색과 일치하는 항목을 찾을 수 없습니다",
+  "redirecting": "페이지 이동중",
+  "redirecting_message": "페이지를 찾는 동안 기다려 주십시오.",
+  "access_denied": "접근 거부",
+  "access_denied_message": "이 페이지를 보려면 로그인해야 합니다.",
+  "see_more": "더보기",
+  "see_less": "요약",
+  "confirm_account": {
+    "title": "귀하의 계정을 확인하십시오",
+    "description": "제공된 이메일 주소로 인증 코드를 보내드립니다. 받은 편지함이나 스팸 폴더를 확인하세요.",
+    "enter_code": "인증 코드 입력",
+    "did_not_receive_code": "인증 코드를 받지 못하셨나요?",
+    "resend": "인증 코드 재전송"
+  },
+  "sr_only": {
+    "prev": "이전",
+    "next": "다음",
+    "edit": "수정",
+    "profile": "프로필",
+    "close": "닫기",
+    "open": "열기",
+    "language_select": "언어 선택 상자",
+    "language_select_web": "언어 선택 상자 웹",
+    "language_select_mobile": "언어 선택 상자 모바일",
+    "search_tab": "검색 탭"
+  },
+  "ask_a_question": {
+    "title": "질문이 있으신가요?",
+    "desc": "클라우드호스피탈은 경험이 풍부하고 검증된 의료진들로 구성되어 있습니다. 클라우드호스피탈은 24시간 연중무휴로 환자들이 의료 서비스를 받을 수 있도록 운영되고 있습니다.",
+    "btn": "상담하기"
+  },
+  "what_we_offer": {
+    "title": "클라우드호스피탈 서비스"
+  },
+  "marketing_type": {
+    "both": "모두 선택",
+    "beauty": "성형",
+    "general_health": "헬스케어",
+    "health": "건강"
+  },
+  "locale_not_available": {
+    "title": "죄송합니다",
+    "desc": "현재 고객님께서 위치하고 계신 지역에서는 사용할 수 있는 서비스가 없습니다."
+  },
+  "medical_team": "의료팀",
+  "marketing": {
+    "header": {
+      "book_appointment": "예약을 하려면 이곳으로 전화하십시오"
+    },
+    "footer": {
+      "home": "홈",
+      "about_us": "클라우드호스피탈 소개",
+      "find_care": "의료서비스 찾기",
+      "promotions": "프로모션",
+      "articles": "의료 정보",
+      "download_apps": "앱 다운로드",
+      "accreditation": "저희 병원은 모두",
+      "address": "주소",
+      "contact": "연락하다",
+      "opening_hours": "개관 시간",
+      "weekdays": "평일: 연중무휴",
+      "weekends": "주말: 연중무휴"
+    },
+    "completed": {
+      "meta_title": "완료",
+      "title": "문의가 접수 됐습니다. 감사합니다.",
+      "sub_title": "문의 주신 내용을 처리 중입니다. 24시간 이내로 연락 드리겠습니다.",
+      "visit": "클라우드호스피탈 방문하기",
+      "new_visitors": "매일 신규방문자 10,000명 이상 ",
+      "mobile_apps": "웹 또는 모바일 앱을 통해 실시간 채팅을 이용 할 수 있습니다. (연중무휴 24시간 운영)",
+      "lets_connect": "소셜 미디어"
+    }
+  },
+  "language_popup": {
+    "title": "언어 선택",
+    "sub_title_1": "추천 언어",
+    "sub_title_2": "모든 언어"
+  },
+  "external_login_button": {
+    "connect_with_apple": "\bApple과 연결",
+    "connect_with_facebook": "Facebook과 연결",
+    "connect_with_google": "Google과 연결",
+    "remove_apple": "\bApple 제거",
+    "remove_facebook": "Facebook 제거",
+    "remove_google": "Google 삭제",
+    "sign_in_with_apple": "Apple로 로그인",
+    "sign_in_with_facebook": "Facebook으로 로그인",
+    "sign_in_with_google": "Google로 로그인"
+  },
+  "create_profile": {
+    "description": "양식을 작성하여 등록을 완료하십시오.",
+    "first_name": "이름",
+    "last_name": "성",
+    "title": "거의 완료되었습니다!"
+  },
+  "form": {
+    "first_name": "이름",
+    "last_name": "성"
+  },
+  "toast_message": {
+    "copied_to_clipboard": "클립보드에 복사됨",
+    "create_profile_success": "등록이 완료되었습니다"
+  }
+}

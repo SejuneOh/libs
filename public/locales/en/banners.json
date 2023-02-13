@@ -1,0 +1,134 @@
+{
+  "medical_video": {
+    "title": "Medical Video Consultation",
+    "desc": "Get an online consultation from the world-class experts without leaving your home.",
+    "list1": "• free online consultation about the deals details",
+    "list2": "• doctor’s online consultation according with specified fee"
+  },
+  "service_offerings": {
+    "title": "Global 24x7 Services Offered",
+    "desc": "Hassle-Free and Best Cross-Boarder Medical Service Provider",
+    "cards": {
+      "card_01": {
+        "title": "Access To Global Healthcare",
+        "desc": "Unique opportunity to receive medical treatment from the world’s best hospitals and doctors."
+      },
+      "card_02": {
+        "title": "Personalised Medical Treatment",
+        "desc": "We care and strive to provide each patient with a tailored plan to meet their specific needs."
+      },
+      "card_03": {
+        "title": "Holistic Medical Tourism",
+        "desc": "Comprehensive level of support to patients from the initial consultation to post-operative care."
+      },
+      "card_04": {
+        "title": "Online Medical Consultation",
+        "desc": "Enables patients to video consult with the world’s best medical experts with ease & accessibility."
+      },
+      "card_05": {
+        "title": "Insurance Assistance",
+        "desc": "We try to help you with your insurance claims when needed so that you will be at peace."
+      },
+      "card_06": {
+        "title": "24x7 Patient Assistance",
+        "desc": "A personal case manager will provide round the clock support to ensure you receive the necessary help at all times."
+      }
+    }
+  },
+  "best_choice": {
+    "title": "Why are we the best choice?",
+    "desc": "Assuring you the world's top medical care at your fingertips",
+    "cards": {
+      "countries": "Country Presence",
+      "patients": "Happy Patients",
+      "hospitals": "Top Hospitals",
+      "doctors": "Best Doctors"
+    },
+    "checklist": {
+      "list_01": {
+        "title": "#1 Cross-Border Medical Service Provider",
+        "desc": "We only provide the world’s top hospitals and doctors at the most affordable prices."
+      },
+      "list_02": {
+        "title": "Highly Qualified Hospitals and Doctors",
+        "desc": "We only onboard world’s best hospital and doctors onto our platform to serve your medical needs."
+      },
+      "list_03": {
+        "title": "Dedicated Case Manager",
+        "desc": "A personal case manager will help you from start to end. Name it insurance, fund transfers, professional translation etc."
+      },
+      "list_04": {
+        "title": "24x7 Live Global Support",
+        "desc": "Our Expert Support Staff will be available 24x7 365 for addressing your queries on health and beauty needs "
+      }
+    },
+    "accreditations": "We Only provide top-certified hospitals"
+  },
+  "reviews": {
+    "title": "Worldwide Public Trust on Us",
+    "desc": "See what our happy users and brand ambassadors think of us",
+    "cards": {
+      "card_01": {
+        "patient_name": "Agasthya Ross",
+        "occupation": "Science Professor, Russia",
+        "title": "I highly recommend cloudhospital for their seamless services",
+        "desc": "lThe service was amazing. They were very clear and transparent about everything upfront. I felt confident. I never had to wait anywhere from start to end during my service. The support staff has been amazing in follow-up and co-ordination between the hospital, doctor and me."
+      },
+      "card_02": {
+        "patient_name": "Mia Charlotte",
+        "occupation": "Software Engineer, Canada",
+        "title": "My medical trip was seamless and satisfying",
+        "desc": "From my transfers, insurance and translation services, name it anything in medical tourism, cloud hospital has nailed it and build trust in me. From start to end of my consultation and surgery, everything has been personally assisted by Mr.Kyung Kon Pong (my account manager) and very cooperative support team."
+      }
+    },
+    "countries": "Our happy patients are across the globe"
+  },
+  "how_it_works": {
+    "title": "How It Works",
+    "desc": "A seamless four step process to book an appointment",
+    "cards": {
+      "card_01": {
+        "title": "Search",
+        "desc": "Search for industry best hospitals, doctors, and deals across 32 countries and counting."
+      },
+      "card_02": {
+        "title": "Pick Timeslot",
+        "desc": "Choose a time-slot that is convenient for you from the available slots in a particular hospital, doctor or a deal."
+      },
+      "card_03": {
+        "title": "Make Payment",
+        "desc": "Select the mode and type of payment for the chosen time-slot and make the payment."
+      },
+      "card_04": {
+        "title": "Appointment Booked",
+        "desc": "Upon successful payment, your appointment will be booked successfully. "
+      }
+    }
+  },
+  "video": {
+    "title": "Hassle-Free Because We Care For You in #1",
+    "desc": "We have combined medicine and modern technologies to satisfy your health and beauty needs.",
+    "cards": {
+      "card_01": {
+        "title": "Search",
+        "desc": "lacus, nisl. odio lobortis, tincidunt ac ipsum nisi elit maximus Nunc libero, eget in hendrerit. Tincidunt ac ipsum nisi elit. Tincidunt ac ipsum nisi elit."
+      },
+      "card_02": {
+        "title": "Pick Timeslot",
+        "desc": "lacus, nisl. odio lobortis, tincidunt ac ipsum nisi elit maximus Nunc libero, eget in hendrerit. Tincidunt ac ipsum nisi elit. Tincidunt ac ipsum nisi elit."
+      },
+      "card_03": {
+        "title": "Make Payment",
+        "desc": "lacus, nisl. odio lobortis, tincidunt ac ipsum nisi elit maximus Nunc libero, eget in hendrerit. Tincidunt ac ipsum nisi elit. Tincidunt ac ipsum nisi elit."
+      },
+      "card_04": {
+        "title": "Appointment Booked",
+        "desc": "lacus, nisl. odio lobortis, tincidunt ac ipsum nisi elit maximus Nunc libero, eget in hendrerit. Tincidunt ac ipsum nisi elit. Tincidunt ac ipsum nisi elit."
+      }
+    }
+  },
+  "download_app": {
+    "title": "Let's donwload our\nbest rated mobile apps",
+    "desc": "No more wasting your time to find world's best hospitals, doctors and deals.\nWe're #1 doing that for you!"
+  }
+}

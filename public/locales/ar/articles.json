@@ -1,0 +1,18 @@
+{
+  "articles": "مقالات",
+  "other_articles": "مقالات أخرى",
+  "last_updated_date": "تاريخ آخر تحديث",
+  "mins_read": "قراءة دقيقة",
+  "next_blog": "المدونة التالية",
+  "share_this": "شارك هذا",
+  "view_all": "عرض الكل",
+  "label": {
+    "all_topics": "كل المواضيع"
+  },
+  "statements": {
+    "written_by": "كتب بواسطة",
+    "reviewed_by": "استعرض طبيا من قبل",
+    "interview_with": "مقابلة مع"
+  },
+  "looking_for": "تبحث عن موضوع محدد؟"
+}

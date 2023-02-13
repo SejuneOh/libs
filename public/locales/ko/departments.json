@@ -1,0 +1,8 @@
+{
+  "departments": {
+    "title": "모든 의료부서",
+    "search": {
+      "placeholder": "원하는 의료부서를 검색하세요"
+    }
+  }
+}

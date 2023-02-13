@@ -1,0 +1,22 @@
+{
+  "doctors": "الأطباء",
+  "online_appointment_booking": "حجز المواعيد عبر الإنترنت",
+  "available": "متوفرة",
+  "consultation": "التشاور",
+  "ask_a_question": "طرح سؤال",
+  "online_consultation": "الاستشارة عبر الإنترنت",
+  "offline_consultation": "استشارة دون اتصال بالإنترنت",
+  "enabled": "ممكن",
+  "All": "الجميع",
+  "online": "متصل",
+  "all_specializations": "جميع التخصصات",
+  "languages": "اللغات",
+  "overview": "ملخص",
+  "education_experience": "تعليم",
+  "surgery_results": "نتائج الجراحة",
+  "before": "قبل",
+  "after": "بعد، بعدما",
+  "other_doctors": "أطباء آخرون",
+  "experience": "خبرة",
+  "years": "سنوات"
+}

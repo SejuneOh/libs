@@ -1,0 +1,18 @@
+{
+  "articles": "의학 정보",
+  "other_articles": "다른 의학 정보",
+  "last_updated_date": "마지막 업데이트",
+  "mins_read": "mins read",
+  "next_blog": "다음 의학 정보",
+  "share_this": "공유하기",
+  "view_all": "모두 보기",
+  "label": {
+    "all_topics": "모든 주제"
+  },
+  "statements": {
+    "written_by": "작성자",
+    "reviewed_by": "의학적 검토자",
+    "interview_with": "인터뷰어"
+  },
+  "looking_for": "어떤 의학 정보를 찾고 계십니까?"
+}

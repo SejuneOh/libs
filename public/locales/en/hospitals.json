@@ -1,0 +1,66 @@
+{
+  "titles": {
+    "overview": "Overview",
+    "top_specialities": "Top Specialties",
+    "major_equipment": "Equipment",
+    "doctors": "Doctors",
+    "deals": "Deals",
+    "prices": "Prices",
+    "location": "Address",
+    "hospital_address": "Hospital Address",
+    "article": "Articles",
+    "other_hospitals": "Other Hospitals",
+    "hospital_rating": "Hospital rating",
+    "video": "Video"
+  },
+  "info": {
+    "foundation": "Foundation year",
+    "doctors": "Doctors",
+    "operation": "Operations per year",
+    "beds": "Beds",
+    "staff": "Medical staff",
+    "fee": "Fee"
+  },
+  "how_does_work": {
+    "title": "How does it work?",
+    "login": "Login or Signup",
+    "consultation": "Ask a question or request Online Consultation",
+    "call": "Prior Online Consultation please send us your medical history"
+  },
+  "covid": {
+    "title": "Important information",
+    "txt": "Protect yourself and others from COVID-19.\n Please check information about pandemic before booking.",
+    "link": "View details"
+  },
+  "see_more_deals": {
+    "title": "Want to see more deals?",
+    "txt": "Other deals available",
+    "link": "View Deals"
+  },
+  "tabs": {
+    "diagnostic": "Diagnostic Procedure",
+    "treatment": "Treatment Procedure"
+  },
+  "links": {
+    "all": "All",
+    "see_all": "See all",
+    "see_all_blog": "See all Articles",
+    "see_all_diagnostic": "See all Diagnostics",
+    "see_all_doctors": "See all Doctors",
+    "see_all_hospitals": "See all Hospitals",
+    "see_all_package": "See all Deals",
+    "see_all_specialty": "See all Specialties",
+    "see_all_treatment": "See all Treatments",
+    "services": "Services",
+    "show_all": "Show all",
+    "specialties": "Specialties"
+  },
+  "booking": {
+    "fee": "Consultation fee:",
+    "online_consultation": "Online Consultation",
+    "ask": "If you want to ask a question before consulting a doctor"
+  },
+  "accreditations": {
+    "hospital_accreditations_of_quality": "Hospital accreditations of quality"
+  }
+}

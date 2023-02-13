@@ -1,0 +1,254 @@
+{
+  "404": {
+    "seo_title": "Not Found",
+    "title": "Sorry, this page isn't available",
+    "desc": "The link you followed may be broken, or the page may have been removed.",
+    "redirect": "Go to the CloudHospital homepage"
+  },
+  "500": {
+    "seo_title": "Error",
+    "title": "Sorry Something went wrong",
+    "desc": "The link you followed may be broken, or the page may have been removed.",
+    "redirect": "Go to the CloudHospital homepage"
+  },
+  "header": {
+    "find_care": "Find Care",
+    "departments": "Deparments",
+    "specialties": "Specialties",
+    "locations": "Locations",
+    "hospitals": "Hospitals",
+    "doctors": "doctors",
+    "countries": "Countries",
+    "promotions": "Promotions",
+    "articles": "Articles",
+    "articles_featured": "Featured Articles",
+    "deals": "Deals",
+    "deals_featured": "Featured Deals",
+    "about_us": "About Us",
+    "about_cloud_hospital": "About CloudHospital",
+    "how_does_it_work": "How Does it Work",
+    "our_team": "Our Team",
+    "vision_and_mission": "Vison and Mission",
+    "service_offered": "Service Offered",
+    "why_us": "Why Us",
+    "client_testimonials": "Client Testimonials",
+    "cloud_hospital": "CloudHospital",
+    "online_consultation": "Online Consultation",
+    "offline_consultation": "Offline Consultation",
+    "investors": "Investors",
+    "leadership": "Leadership",
+    "medical": "Medical",
+    "technology": "Technology",
+    "mobile": {
+      "menu": "Menus",
+      "profile": "Profile"
+    }
+  },
+  "hospital_name": "CloudHospital",
+  "button": {
+    "view_all": "View All",
+    "view_more": "View More",
+    "see_more": "See More",
+    "see_less": "See Less",
+    "sources": "sources",
+    "ask_question": "Ask Question",
+    "book_appointment": "Book Appointment",
+    "online_consultation": "Consult Now",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "sign_in": "Sign In",
+    "sign_up": "Sign Up",
+    "login": "Login",
+    "logout": "Logout",
+    "signout": "Sign Out",
+    "register": "Register",
+    "confirm": "Confirm",
+    "ok": "OK",
+    "overview": "Overview",
+    "click_here": "Click Here",
+    "chat": "CHAT",
+    "close": "Close",
+    "my_page": "My Page",
+    "search": "Search"
+  },
+  "label": {
+    "consultation_fee": "Consultation Fee",
+    "fee": "Fee",
+    "tax_fees_included": "tax and fees included",
+    "all_inclusive": "All Inclusive",
+    "less_than": "less than",
+    "free": "free",
+    "years_short": "Yrs",
+    "onwards": "Onwards"
+  },
+  "loading": "Loading",
+  "chat": {
+    "initializing_chat": "Initializing chat",
+    "display_name": "Display name",
+    "select_chat_room": "Please select a chat room to start.",
+    "no_chat_room": "No Chat Room",
+    "enter_your_details": "Before proceeding please enter your details below",
+    "first_name": "First Name*",
+    "last_name": "Last Name*",
+    "start_chat": "Start Chat",
+    "validation": {
+      "required": "Required",
+      "cannot_numeric_digit": "Name cannot contain numeric digits",
+      "cannot_special_character": "Name cannot contain special characters",
+      "too_long": "Name too long"
+    },
+    "are_you_sure": "Are you sure?",
+    "you_are_leaving": "You're about to end the video call",
+    "cancel": "Cancel",
+    "confirm": "Confirm"
+  },
+  "call": {
+    "initializing_call": "Initializing call"
+  },
+  "layouts": {
+    "header": {
+      "more": "More",
+      "searchBar_placeholder": "Search by Specialization, Deals, Doctor",
+      "language": "language"
+    },
+    "footer": {
+      "checklist": {
+        "hassel_free": "Hassel Free",
+        "assured_results": "Assured Results",
+        "best_pricing": "Best Pricing",
+        "global_service": "Global Service"
+      },
+      "quick_links": {
+        "title": "Quick Links",
+        "links": {
+          "about_us": "About Us",
+          "how_it_works": "How it works"
+        }
+      },
+      "for_patients": {
+        "title": "For Patients",
+        "links": {
+          "hospitals_health": "Best Hospitals - Health",
+          "doctors_health": "Top Doctors - Health",
+          "deals_health": "Deals - Health",
+          "hospitals_beauty": "Best Doctors - Beauty",
+          "doctors_beauty": "Top Doctors - Beauty",
+          "deals_beauty": "Deals - Beauty"
+        }
+      },
+      "policies": {
+        "title": "Policies",
+        "links": {
+          "terms_of_service": "Terms of Service",
+          "privacy_policy": "Privacy Policy"
+        }
+      },
+      "contact_us": "Contact Us",
+      "download_app": "Download App"
+    }
+  },
+  "no_results_found": "No Results Found",
+  "we_can_not_find": "We can't find any items matching your search",
+  "redirecting": "Redirecting",
+  "redirecting_message": "Please wait while we're finding the right page for you.",
+  "access_denied": "Acess Denied",
+  "access_denied_message": "You must be signed in to view this page.",
+  "see_more": "See More",
+  "see_less": "See less",
+  "confirm_account": {
+    "title": "Please confirm your account",
+    "description": "We’ll send the verification code to the provided email address. Check your inbox or spam folder.",
+    "enter_code": "Enter verification code",
+    "did_not_receive_code": "Didn't receive code?",
+    "resend": "Resend code"
+  },
+  "create_profile": {
+    "title": "Almost Done!",
+    "description": "Please complete the form to finish your registeration",
+    "first_name": "First Name",
+    "last_name": "Last Name"
+  },
+  "sr_only": {
+    "prev": "Prev",
+    "next": "Next",
+    "edit": "Edit",
+    "profile": "Profile",
+    "close": "Close",
+    "open": "Open",
+    "language_select": "Language Select Box",
+    "language_select_web": "Language Select Box Dummy Input web",
+    "language_select_mobile": "Language Select Box Dummy Input mobile",
+    "search_tab": "search Tab"
+  },
+  "ask_a_question": {
+    "title": "Any questions we can answer?",
+    "desc": "CloudHospital is staffed with experienced, qualified specialists in the healthcare industry. We can help you with consultations and bookings with the most sought after doctors and hospitals in multiple countries. Our service is free and we are open 24/7.",
+    "btn": "Ask a question"
+  },
+  "what_we_offer": {
+    "title": "What We Offer"
+  },
+  "marketing_type": {
+    "both": "Both",
+    "beauty": "Beauty",
+    "general_health": "General Health",
+    "health": "Health"
+  },
+  "locale_not_available": {
+    "title": "We are sorry",
+    "desc": "Currently no services are available in your current region"
+  },
+  "medical_team": "Medical Team",
+  "marketing": {
+    "header": {
+      "book_appointment": "Book Appointement on call at"
+    },
+    "footer": {
+      "home": "Home",
+      "about_us": "About Us",
+      "find_care": "Find Care",
+      "promotions": "Promotions",
+      "articles": "Articles",
+      "opening_hours": "Opening Hours",
+      "weekdays": "Weekdays: 24x7",
+      "weekends": "Weekends: 24x7",
+      "address": "Address",
+      "contact": "Contact",
+      "download_apps": "Download Mobile Apps",
+      "accreditation": "All our hospitals are"
+    },
+    "completed": {
+      "meta_title": "Completed",
+      "title": "Thank you, we’ve received your request.",
+      "sub_title": "We’re already working on your query and will get back to you in 24 hours.",
+      "visit": "Visit Our Website",
+      "new_visitors": "10k+ New Daily Visitors",
+      "mobile_apps": "You can always reach us out via 24x7 live chat from our website or mobile apps.",
+      "lets_connect": "Let’s connect!"
+    }
+  },
+  "language_popup": {
+    "title": "Select your language",
+    "sub_title_1": "Suggested for you",
+    "sub_title_2": "All languages"
+  },
+  "external_login_button": {
+    "sign_in_with_google": "Sign in with Google",
+    "sign_in_with_facebook": "Sign in with Facebook",
+    "sign_in_with_apple": "Sign in with Apple",
+    "connect_with_google": "Connect with Google",
+    "connect_with_facebook": "Connect with Facebook",
+    "connect_with_apple": "Connect with Apple",
+    "remove_google": "Remove Google",
+    "remove_facebook": "Remove Facebook",
+    "remove_apple": "Remove Apple"
+  },
+  "toast_message": {
+    "copied_to_clipboard": "Copied To Clipboard",
+    "create_profile_success": "Your registration is complete"
+  },
+  "form": {
+    "first_name": "First Name",
+    "last_name": "Last Name"
+  }
+}

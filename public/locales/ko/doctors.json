@@ -1,0 +1,22 @@
+{
+  "doctors": "의료진",
+  "online_appointment_booking": "온라인 예약",
+  "available": "예약 가능",
+  "consultation": "상담",
+  "ask_a_question": "질문하기",
+  "online_consultation": "온라인 상담",
+  "offline_consultation": "오프라인 상담",
+  "enabled": "활성화됨",
+  "All": "모두",
+  "online": "온라인",
+  "all_specializations": "모든 의료과목",
+  "languages": "언어",
+  "overview": "개요",
+  "education_experience": "학력/경력",
+  "surgery_results": "수술 결과",
+  "before": "전",
+  "after": "후",
+  "other_doctors": "다른 의료진",
+  "experience": "경험",
+  "years": "기간"
+}

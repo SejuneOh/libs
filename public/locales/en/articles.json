@@ -1,0 +1,18 @@
+{
+  "articles": "Articles",
+  "other_articles": "Other Articles",
+  "last_updated_date": "Last updated date",
+  "mins_read": "mins read",
+  "next_blog": "Next Blog",
+  "share_this": "Share this",
+  "view_all": "VIEW ALL",
+  "label": {
+    "all_topics": "All Topics"
+  },
+  "statements": {
+    "written_by": "Written by",
+    "reviewed_by": "Medically reviewed by",
+    "interview_with": "Interview with"
+  },
+  "looking_for": "Looking for a concrete topic?"
+}

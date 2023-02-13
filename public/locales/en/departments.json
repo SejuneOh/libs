@@ -1,0 +1,8 @@
+{
+  "departments": {
+    "title": "All Departments",
+    "search": {
+      "placeholder": "Search your desired department by typing here..."
+    }
+  }
+}
