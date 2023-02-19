@@ -15,5 +15,9 @@ export default function handler(
   req: NextApiRequest,
   res: NextApiResponse<Array<GetUserType>>
 ) {
-  res.status(200).json(resData);
+  const sendUseTimeout = setTimeout(() => {
+    return res.status(200).json(resData);
+  }, 2000);
+
+  sendUseTimeout;
 }
