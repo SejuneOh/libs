@@ -1,5 +1,16 @@
-const getAllUser = () => {};
+import axios from "axios";
+export const getAllUser = async () => {
+  const api = "/api/swr";
+  try {
+    const res = await axios.get(api);
+    return res.data;
+  } catch (e) {
+    throw new Error("UnkownError");
+  }
+};
 
-const getUser = () => {};
+export const getUser = () => {};
 
-export default { getAllUser };
+const users = { getAllUser, getUser };
+
+export default users;
