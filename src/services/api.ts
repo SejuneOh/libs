@@ -1,16 +1,17 @@
+import { RestException } from "./../Models/exceptions";
+import { GetUserType } from "@/Models/User";
 import axios from "axios";
-export const getAllUser = async () => {
-  const api = "/api/swr";
+
+export const getAllUser = async (): Promise<Array<GetUserType>> => {
   try {
-    const res = await axios.get(api);
-    return res.data;
-  } catch (e) {
-    throw new Error("UnkownError");
+    const res = await axios.get("/api/swr");
+    return res.data as Array<GetUserType>;
+  } catch (error: any) {
+    const restException = error as RestException;
+    throw restException;
   }
 };
 
-export const getUser = () => {};
+const services = { getAllUser };
 
-const users = { getAllUser, getUser };
-
-export default users;
+export default services;

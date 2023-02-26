@@ -1,4 +1,6 @@
+import useSWR from "swr";
 type SwrKeyType<TOption> = [string, TOption];
+
 export const nameOf = (f: () => any, returnesFullName = false): string => {
   const fullName = f.toString().replace(/[ |\(\)=>]/g, "");
   if (!returnesFullName) {
@@ -10,29 +12,40 @@ export const nameOf = (f: () => any, returnesFullName = false): string => {
   return fullName;
 };
 
-const useGenericSwr = <TOption, TResponse, TError>(
+const keyGenerator = <TOption>(
   option: TOption,
-  operationName: string,
-  api: (option: TOption) => Promise<TResponse>,
-  shouldFetch: boolean
-) => {
-  const keyGenerator = (option?: TOption): SwrKeyType<TOption> | null => {
-    if (option) {
-      const query = Object.entries(option)
-        .sort((a, b) => (a[0] > b[0] ? 1 : -1))
-        .map((k, v) => `${k}=${v ?? ""}`)
-        .join("&");
+  operationName: string
+): SwrKeyType<TOption> | null => {
+  if (option) {
+    const query = Object.entries(option)
+      .sort((a, b) => (a[0] > b[0] ? 1 : -1))
+      .map((k, v) => `${k}=${v ?? ""}`)
+      .join("&");
 
-      const key = `${operationName}?${query}`;
-
-      return [key, option];
-    }
-    return null;
-  };
+    const key = `${operationName}?${query}`;
+    return [key, option];
+  }
+  return null;
 };
 
-const useGenericMutation = () => {};
+export const useGenericSwr = <TOption, TResponse, TError>(
+  option: TOption | undefined,
+  urlOperationName: string,
+  api: (option: TOption) => Promise<TResponse>,
+  isFetchQuery?: boolean
+) => {
+  const fetcher = ([_, opt]: SwrKeyType<TOption>) => api(opt);
 
-const useGenericInfinite = () => {};
+  const { data, isValidating, error, mutate } = useSWR<TResponse, TError>(
+    () =>
+      (isFetchQuery !== undefined ? isFetchQuery : true)
+        ? keyGenerator(option, urlOperationName)
+        : null,
+    fetcher,
+    {
+      revalidateOnFocus: false,
+    }
+  );
 
-export default { useGenericSwr, useGenericMutation, useGenericInfinite };
+  return { data, isValidating, error, mutate };
+};

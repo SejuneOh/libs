@@ -1,3 +1,5 @@
+import { RestException } from "./../../Models/exceptions";
+import { getAllUser } from "@/services/api";
 import { GetUserType } from "./../../Models/User";
 import type { NextApiRequest, NextApiResponse } from "next";
 
@@ -13,11 +15,16 @@ const resData: Array<GetUserType> = [
 ];
 export default function handler(
   req: NextApiRequest,
-  res: NextApiResponse<Array<GetUserType>>
+  res: NextApiResponse<Array<GetUserType> | RestException>
 ) {
-  const sendUseTimeout = setTimeout(() => {
-    return res.status(200).json(resData);
-  }, 2000);
-
-  sendUseTimeout;
+  return new Promise<Array<GetUserType> | RestException>((resolve, reject) => {
+    try {
+      res.status(200).json(resData);
+      resolve(resData);
+    } catch (error) {
+      const restError = error as RestException;
+      res.status(501).json(restError);
+      resolve(restError);
+    }
+  });
 }
