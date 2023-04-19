@@ -15,6 +15,10 @@ const menues: Menu[] = [
     name: "SWR",
     path: "/swr",
   },
+  {
+    name: "React-Hook-Form",
+    path: "/react-hook-form",
+  },
 ];
 
 ///menu layout
